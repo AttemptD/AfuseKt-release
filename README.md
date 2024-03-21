@@ -3,9 +3,9 @@
 欢迎大家使用Afusekt
 本库转为该App发布release版本，不包含任何代码
 包含功能刮削海波，播放视频
-支持协议：Alist，SMB，Webdav，Emby（直连），Local，jellyfin（直连）
+支持协议：Alist，SMB，Webdav，Emby（直连），Local，jellyfin（直连），阿里网盘
 
-Everyone is welcome to use Afusekt. This library is converted to the release version of the App. It does not contain any code. It contains functions of scraping waves and playing videos. Supported protocols: Alist, SMB, Webdav, Emby (direct connection), Local, jellyfin (direct connection)
+Everyone is welcome to use Afusekt. This library is converted to the release version of the App. It does not contain any code. It contains functions of scraping waves and playing videos. Supported protocols: Alist, SMB, Webdav, Emby (direct connection), Local, jellyfin (direct connection)，AliYun
 
 tg：https://t.me/AfuseKtOfficialGroupTg
 
