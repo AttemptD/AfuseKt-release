@@ -21,8 +21,8 @@ tg：https://t.me/AfuseKtOfficialGroupTg
 </div>
 
 <div>
-  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/55f2dc86-2037-4553-9658-d8a527551d32" width=50%/>
-  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/2191c812-0d99-4472-ac4f-dcbe99f7aada" width=50%/>
+  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/55f2dc86-2037-4553-9658-d8a527551d32" width=49%/>
+  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/2191c812-0d99-4472-ac4f-dcbe99f7aada" width=49%/>
 </div>
 
 
