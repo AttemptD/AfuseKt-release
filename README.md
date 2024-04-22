@@ -13,7 +13,9 @@ your android verison must be 11.<br>
 
 tg：https://t.me/AfuseKtOfficialGroupTg
 
-
+<div >
+  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/2f989c12-1cbe-4cc3-bae7-70ee5cbbe815" width=60%/>
+</div>
 ![Screenshot_20240304_205909_AfuseKt](https://github.com/AttemptD/AfuseKt-release/assets/50815957/2f989c12-1cbe-4cc3-bae7-70ee5cbbe815)
 ![Screenshot_20240304_205840_AfuseKt](https://github.com/AttemptD/AfuseKt-release/assets/50815957/e436553d-09b7-4c64-b8fc-98fb509537bd)
 ![Screenshot_20240304_205835_AfuseKt](https://github.com/AttemptD/AfuseKt-release/assets/50815957/00bb2557-1169-4e76-9945-623db6a64899)
