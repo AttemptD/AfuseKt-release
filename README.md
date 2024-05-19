@@ -1,15 +1,12 @@
 # AfuseKt-release
 
+
+<a href="" >English</a>
 欢迎大家使用Afusekt.<br>
 本库为该App发布release版本，不包含任何代码.<br>
 包含功能刮削，播放视频.<br>
 支持协议：Alist，SMB，Webdav，Emby（直连），Local，jellyfin（直连），阿里网盘.<br>
 最低版本支持安卓11.<br>
-
-Everyone is welcome to use Afusekt.<br>
-This library is converted to the release version of the App. It does not contain any code..<br> 
-It contains functions of scraping waves and playing videos. Supported protocols: Alist, SMB, Webdav, Emby (direct connection), Local, jellyfin (direct connection)，AliYun .<br>
-your android verison must be 11.<br>
 
 tg：https://t.me/AfuseKtOfficialGroupTg
 
@@ -33,8 +30,7 @@ tg：https://t.me/AfuseKtOfficialGroupTg
 
 觉得不错的希望您能支持一下，有动力才有产品<br>
 如果您有意愿请打好备注来源（您的AfuseKt账号）<br>
-I hope you can support me if I think it's good. Only with power can we have products <br>
-If you are interested, please provide a note source (your AfuseKt account) <br>
+
 <div >
 
 <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/6e1cc4d1-9bcb-40c8-ae0c-5a93c7456da5" width=40%/>
