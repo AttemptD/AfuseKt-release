@@ -1,7 +1,7 @@
 # AfuseKt-release
 
 
-<a href="" >English</a> <br>
+<a href="README-EG.md" >English</a> <br>
 欢迎大家使用Afusekt.<br>
 本库为该App发布release版本，不包含任何代码.<br>
 包含功能刮削，播放视频.<br>
