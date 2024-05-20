@@ -31,13 +31,14 @@ tg：https://t.me/AfuseKtOfficialGroupTg
 觉得不错的希望您能支持一下，有动力才有产品<br>
 如果您有意愿请打好备注来源（您的AfuseKt账号）<br>
 
-<div >
+ <!--<div >
 
 <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/6e1cc4d1-9bcb-40c8-ae0c-5a93c7456da5" width=40%/>
 <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/e4c5bf71-98eb-4c89-9c1b-04bc7d1a22fb" width=40%/>
   
 </div>
-
+-->
+此次捐赠结束
 
 
 
