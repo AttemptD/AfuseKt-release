@@ -8,7 +8,7 @@
 支持协议：Alist，SMB，Webdav，Emby（直连），Local，jellyfin（直连），阿里网盘.<br>
 最低版本支持安卓11.<br>
 
-tg：https://t.me/AfuseKtOfficialGroupTg
+qq：474709357
 
 <div >
   <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/a4064a6b-6dd8-4ead-be83-3820845a81e4" width=30%/>
