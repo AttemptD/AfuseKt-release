@@ -10,7 +10,7 @@
 
 
 <a href="https://www.attemptd.work/AfuseKt/InstructionsForUse/">使用手册</a> 必看.<br>
-< href="https://t.me/+HPzt8UfiA_U0MzBl">订阅TG第一时间获取最新消息</a>
+<a href="https://t.me/+HPzt8UfiA_U0MzBl">订阅TG第一时间获取最新消息</a>
 qq：474709357
 
 <div >
