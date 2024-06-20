@@ -9,7 +9,7 @@
 最低版本支持安卓11.<br>
 
 
-<a herf="https://www.attemptd.work/AfuseKt/InstructionsForUse/">使用手册</a> 必看.<br>
+<a href="https://www.attemptd.work/AfuseKt/InstructionsForUse/">使用手册</a> 必看.<br>
 qq：474709357
 
 <div >
