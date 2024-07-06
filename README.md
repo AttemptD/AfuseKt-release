@@ -6,7 +6,7 @@
 本库为该App发布release版本，不包含任何代码.<br>
 包含功能刮削，播放视频.<br>
 支持协议：Alist，SMB，Webdav，Emby（直连），Local，jellyfin（直连），阿里网盘.<br>
-最低版本支持安卓11.<br>
+最低版本支持安卓9.<br>
 
 
 <a href="https://www.attemptd.work/AfuseKt/InstructionsForUse/">使用手册</a> 必看.<br>
