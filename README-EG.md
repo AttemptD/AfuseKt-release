@@ -2,7 +2,7 @@
 Everyone is welcome to use Afusekt.<br>
 This library is converted to the release version of the App. It does not contain any code..<br> 
 It contains functions of scraping waves and playing videos. Supported protocols: Alist, SMB, Webdav, Emby (direct connection), Local, jellyfin (direct connection)，AliYun .<br>
-your android verison must be 11.<br>
+your android verison must be 9.<br>
 
 tg：https://t.me/AfuseKtOfficialGroupTg
 
