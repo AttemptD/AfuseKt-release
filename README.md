@@ -12,7 +12,7 @@
 <a href="https://www.attemptd.work/AfuseKt/InstructionsForUse/">使用手册</a> 必看.<br>
 有问题的，或者讨论的请加qq群，关于tg所有东西都将退出，不再有群和频道
 
-如果你想购买订阅请访问一下
+如果你想购买订阅请访问一下，代理问的话会失败哦
 <a href="https://attemptd.work/payWeb/">购买订阅</a> .<br>
 qq：474709357
 
