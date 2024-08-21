@@ -16,7 +16,13 @@
 
 如果你想购买订阅请访问一下，代理问的话会失败哦
 <a href="https://attemptd.work/payWeb/">购买订阅</a> .<br>
-qq售后：680093723
+<a href="[https://attemptd.work/payWeb/](https://github.com/AttemptD/AfuseKtV-release">tv版本</a> .<br>
+
+
+qq群，加不了代表已满
+qq1群：662807208
+qq2群：730115842
+qq4群：680093723
 
 <div >
   <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/a4064a6b-6dd8-4ead-be83-3820845a81e4" width=30%/>
