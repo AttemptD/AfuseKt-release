@@ -16,7 +16,7 @@
 
 如果你想购买订阅请访问一下，代理问的话会失败哦
 <a href="https://attemptd.work/payWeb/">购买订阅</a> .<br>
-<a href="[https://attemptd.work/payWeb/](https://github.com/AttemptD/AfuseKtV-release">tv版本</a> .<br>
+<a href="https://github.com/AttemptD/AfuseKtV-release">tv版本</a> .<br>
 
 
 qq群，加不了代表已满
