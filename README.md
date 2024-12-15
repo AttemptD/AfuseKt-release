@@ -15,7 +15,7 @@
 <a href="https://t.me/PayForAfusekt">tg群组</a>
 
 如果你想购买订阅请访问一下，代理问的话会失败哦
-<a href="https://attemptd.work/payWeb/">购买订阅</a> .<br>
+<a href="https://c.fakamiao.top/shopDetail/aac86t">购买订阅</a> .<br>
 <a href="https://github.com/AttemptD/AfuseKtV-release">tv版本</a> .<br>
 
 
