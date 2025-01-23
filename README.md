@@ -20,9 +20,8 @@
 
 
 qq群，加不了代表已满
-qq1群：662807208
-qq2群：730115842
-qq4群：680093723
+qq群：861559202
+qq群：680093723
 
 <div >
   <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/a4064a6b-6dd8-4ead-be83-3820845a81e4" width=30%/>
