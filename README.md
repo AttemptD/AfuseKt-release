@@ -36,16 +36,18 @@ qq群：680093723
 </div>
 
 <div >
-  <img src="https://github.com/user-attachments/assets/26c826a7-3a3f-4abb-bcc8-e9304015e2b4" width=50%/>
-  <img src="https://github.com/user-attachments/assets/86877e3e-fd23-44a6-80c5-cf0ac5d9c42b" width=50%/>
- 
-</div>
-
-<div >
   <img src="https://github.com/user-attachments/assets/66208599-ed4c-489b-9761-6efd49cbd34a" width=100%/>
   <img src="https://github.com/user-attachments/assets/4d192e6c-07df-4f75-a3bc-7ab9cd5617da" width=100%/>
  
 </div>
+
+<div >
+  <img src="https://github.com/user-attachments/assets/26c826a7-3a3f-4abb-bcc8-e9304015e2b4" width=49%/>
+  <img src="https://github.com/user-attachments/assets/86877e3e-fd23-44a6-80c5-cf0ac5d9c42b" width=49%/>
+ 
+</div>
+
+
 
 
 
