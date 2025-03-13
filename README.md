@@ -24,33 +24,23 @@ qq群：861559202
 qq群：680093723
 
 <div >
-  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/a4064a6b-6dd8-4ead-be83-3820845a81e4" width=30%/>
-  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/58d63117-c360-40f9-aff0-fd54a0f0d0ae" width=30%/>
-  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/69cdd9c6-7749-4fef-bc19-74dc7ca76134" width=30%/>
+  <img src="https://github.com/user-attachments/assets/667e553c-ff0f-4154-9dc7-9c816d022279" width=30%/>
+  <img src="https://github.com/user-attachments/assets/4cece681-dda0-492f-8d18-ff459a509176" width=30%/>
+  <img src="https://github.com/user-attachments/assets/7b3c9cf1-56ac-457a-9cfb-b486133b0854" width=30%/>
 </div>
 
 <div >
-  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/7fdf0c13-3c7d-48c9-9e5d-198434581630" width=30%/>
-  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/ca5191e2-deef-450b-b2d6-447a4e6accbb" width=30%/>
-  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/e6395cb3-80fd-48fe-a70c-5fceb989ec62" width=30%/>
+  <img src="https://github.com/user-attachments/assets/71e065c3-7636-4854-987a-ffd4a4c39b89" width=30%/>
+  <img src="https://github.com/user-attachments/assets/449cf5e1-463c-4fc5-99a0-52716db07272" width=30%/>
+  <img src="https://github.com/user-attachments/assets/972973a1-7b0f-4fd6-bb9c-bf154104aee6" width=30%/>
 </div>
 
 <div >
-  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/e051ae53-15fc-4f79-a58c-c37ffd188b5c" width=30%/>
-  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/62cb461a-3b16-4b00-ab35-7c0a2f0d7d43" width=30%/>
-  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/621ff064-3183-43e0-bd4d-aa7c0e395f50" width=30%/>
+  <img src="https://github.com/user-attachments/assets/26c826a7-3a3f-4abb-bcc8-e9304015e2b4" width=40%/>
+  <img src="https://github.com/user-attachments/assets/86877e3e-fd23-44a6-80c5-cf0ac5d9c42b" width=40%/>
+ 
 </div>
 
-觉得不错的希望您能支持一下，有动力才有产品<br>
-如果您有意愿请打好备注来源（您的AfuseKt账号）<br>
-
- <!--<div >
-
-<img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/6e1cc4d1-9bcb-40c8-ae0c-5a93c7456da5" width=40%/>
-<img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/e4c5bf71-98eb-4c89-9c1b-04bc7d1a22fb" width=40%/>
-  
-</div>
--->
 此次捐赠结束
 
 
