@@ -1,5 +1,5 @@
 # AfuseKt-release
-![k](https://github.com/user-attachments/assets/e9b4d86b-6ce8-4550-bde2-bdf9a3818644)
+ <img src="[https://github.com/user-attachments/assets/667e553c-ff0f-4154-9dc7-9c816d022279](https://github.com/user-attachments/assets/e9b4d86b-6ce8-4550-bde2-bdf9a3818644)" width=10%/>
 
 
 <a href="README-EG.md" >English</a> <br>
