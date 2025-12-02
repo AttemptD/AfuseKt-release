@@ -19,11 +19,6 @@
 <a href="https://c.fakamiao.top/shopDetail/aac86t">购买订阅</a> .<br>
 <a href="https://github.com/AttemptD/AfuseKtV-release">tv版本</a> .<br>
 
-
-qq群，加不了代表已满
-qq群：861559202
-qq群：680093723
-
 <div >
   <img src="https://github.com/user-attachments/assets/667e553c-ff0f-4154-9dc7-9c816d022279" width=30%/>
   <img src="https://github.com/user-attachments/assets/4cece681-dda0-492f-8d18-ff459a509176" width=30%/>
