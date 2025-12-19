@@ -15,14 +15,15 @@
 
 <a href="https://t.me/PayForAfusekt">tg群组</a>
 
-如果你想购买订阅请访问一下，代理问的话会失败哦
+如果你想购买订阅请访问一下，代理问的话会失败哦!
+
 <a href="https://c.fakamiao.top/shopDetail/aac86t">购买订阅</a> .<br>
 <a href="https://github.com/AttemptD/AfuseKtV-release">tv版本</a> .<br>
 
 <div >
-  <img src="https://github.com/user-attachments/assets/667e553c-ff0f-4154-9dc7-9c816d022279" width=30%/>
-  <img src="https://github.com/user-attachments/assets/4cece681-dda0-492f-8d18-ff459a509176" width=30%/>
-  <img src="https://github.com/user-attachments/assets/7b3c9cf1-56ac-457a-9cfb-b486133b0854" width=30%/>
+  <img src="https://github.com/user-attachments/assets/5f455796-daed-4d69-9c14-42b104290da5" width=30%/>
+  <img src="https://github.com/user-attachments/assets/7096df15-beeb-4e53-98d9-6398e067a6c2" width=30%/>
+  <img src="https://github.com/user-attachments/assets/b7c41ae9-0cd7-4452-b0f9-c5b2e7a8b2a6" width=30%/>
 </div>
 
 <div >
