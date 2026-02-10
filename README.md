@@ -3,7 +3,7 @@
 
 
 <a href="README-EG.md" >English</a> <br>
-欢迎大家使用Afusekt 移动端.<br>
+欢迎大家使用Afusekt移动端.<br>
 本库为该App发布release版本，不包含任何代码.<br>
 包含功能刮削，播放视频.<br>
 支持协议：Alist，SMB，Webdav，Emby（直连），plex,Local，jellyfin（直连），阿里网盘,115.<br>
