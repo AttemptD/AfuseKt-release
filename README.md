@@ -21,9 +21,9 @@
 <a href="https://github.com/AttemptD/AfuseKtV-release">tv版本</a> .<br>
 
 <div >
-  <img src="https://github.com/user-attachments/assets/5f455796-daed-4d69-9c14-42b104290da5" width=30%/>
-  <img src="https://github.com/user-attachments/assets/7096df15-beeb-4e53-98d9-6398e067a6c2" width=30%/>
-  <img src="https://github.com/user-attachments/assets/b7c41ae9-0cd7-4452-b0f9-c5b2e7a8b2a6" width=30%/>
+  <img src="https://github.com/user-attachments/assets/609b4850-ae43-459a-abf6-27ebb90322a7" width=30%/>
+  <img src="https://github.com/user-attachments/assets/3a715418-d39d-4f13-a11e-ee3e9cb09c4b" width=30%/>
+  <img src="https://github.com/user-attachments/assets/6dc4c5e5-6bc5-4af1-bb82-b38d7ce6d202" width=30%/>
 </div>
 
 <div >
@@ -42,6 +42,7 @@
   <img src="https://github.com/user-attachments/assets/26c826a7-3a3f-4abb-bcc8-e9304015e2b4" width=49%/>
   <img src="https://github.com/user-attachments/assets/86877e3e-fd23-44a6-80c5-cf0ac5d9c42b" width=49%/>
 </div>
+
 
 
 
