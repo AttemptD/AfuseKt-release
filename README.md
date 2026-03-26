@@ -11,7 +11,6 @@
 
 
 <a href="https://www.afusekt.cn/AfuseKt/InstructionsForUse/">使用手册</a> 必看.<br>
-由于qq群人数限制，所以没办法开启tg群进行售后反馈
 
 <a href="https://t.me/PayForAfusekt">tg群组</a>
 
